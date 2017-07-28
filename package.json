@@ -1,0 +1,19 @@
+{
+  "name": "es6-tutorial-react",
+  "version": "1.0.0",
+  "description": "Murali's first React Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muralierd/es6-tutorial-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muralierd/es6-tutorial-react/issues"
+  },
+  "homepage": "https://github.com/muralierd/es6-tutorial-react#readme"
+}
